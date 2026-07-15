@@ -124,9 +124,9 @@ hidden_dim = 128
 token_dim = 512
 num_heads = 16
 num_tokens = 16
-expert_depth = 20
-top_k_long = 8
-top_k_short = 5
+expert_depth = 10
+top_k_long = 50
+top_k_short = 25
 
 model = RadarPretrainingModel(
     input_dim_long, input_dim_short, inout_seq_len_long, inout_seq_len_short,
