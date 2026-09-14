@@ -1,4 +1,4 @@
-# An Under-Mattress Noncontact Millimeter-Wave System for Continuous Cardiac Monitoring and Arrhythmia Screening
+# An Unobtrusive Noncontact Millimeter-Wave System for Continuous Arrhythmia Screening
 
 The available data and code of the manuscript.
 
